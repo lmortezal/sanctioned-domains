@@ -1872,3 +1872,5 @@ fastly.net
 *.fastly.net
 docker.io
 *.docker.io
+ollama.com
+*.ollama.com
