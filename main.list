@@ -1862,6 +1862,12 @@ pythonhosted.org
 *.pythonhosted.org
 openssl.org
 *.openssl.org
+angular.dev
+*.angular.dev
+elstc.co
+*.elstc.co
+elastic.dev
+*.elastic.dev
 fastly.net
 *.fastly.net
 docker.io
