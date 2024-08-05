@@ -1876,3 +1876,5 @@ ollama.com
 *.ollama.com
 vercel.com
 *.vercel.com
+vercel.app
+*.vercel.app
