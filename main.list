@@ -1874,3 +1874,5 @@ docker.io
 *.docker.io
 ollama.com
 *.ollama.com
+vercel.com
+*.vercel.com
