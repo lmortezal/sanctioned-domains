@@ -1893,3 +1893,17 @@ suricata.io
 replit.com
 *.replit.com
 ftp.debian.org
+fortinet.net
+*.fortinet.net
+githubusercontent.com
+*.githubusercontent.com
+cloudfront.net
+*.cloudfront.net
+*.cilium.io
+cilium.io
+debian.org
+*.debian.org
+smartertools.com
+*.smartertools.com
+v0.dev
+*.v0.dev
