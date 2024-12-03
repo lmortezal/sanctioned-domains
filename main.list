@@ -1936,3 +1936,5 @@ warp.dev
 *.warp.dev
 rustup.rs
 *.rustup.rs
+rust-lang.org
+*.rust-lang.org
