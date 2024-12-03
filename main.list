@@ -1934,3 +1934,5 @@ otio.ai
 *.otio.ai
 warp.dev
 *.warp.dev
+rustup.rs
+*.rustup.rs
