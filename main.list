@@ -1938,3 +1938,5 @@ rustup.rs
 *.rustup.rs
 rust-lang.org
 *.rust-lang.org
+grammarly.com
+*.grammarly.com
